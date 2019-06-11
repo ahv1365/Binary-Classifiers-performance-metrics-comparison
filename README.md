@@ -19,8 +19,8 @@ Data preparation
 
 -Data types
 
--Data description 
--Data preprocessing 
+n/-Data description 
+n/-Data preprocessing 
 -Wrangling data
 -Feature selection
  -Feature smoothing (Noise reduction)
