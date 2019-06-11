@@ -16,7 +16,9 @@ accurate and precise model. The project applies data science techniques and mach
 learning algorithms by using python libraries such as Scikit-Learn, Pandas, NumPy.
 
 Data preparation
+
 -Data types
+
 -Data description 
 -Data preprocessing 
 -Wrangling data
