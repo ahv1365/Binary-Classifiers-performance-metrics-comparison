@@ -19,27 +19,51 @@ Data preparation
 
 -Data types
 
-n/-Data description 
-n/-Data preprocessing 
+-Data description 
+
+-Data preprocessing 
+
 -Wrangling data
+
 -Feature selection
- -Feature smoothing (Noise reduction)
- -Features types
+
+-Feature smoothing (Noise reduction)
+
+-Features types
+
 Exploratory data analysis (EDA)
+
 Modeling techniques for predictive maintenance 
+
 -Model selection
- -Hyperparameters
- -Hyperparameter tuning
- -Cross validation 
+
+-Hyperparameters
+
+-Hyperparameter tuning
+
+-Cross validation 
+
 -Training machine algorithm in practice.
- -Logistic Regression 
- -Support vector machine (SVM) 
- -Random forest (combination of multiple decision trees)
+
+-Logistic Regression 
+
+-Support vector machine (SVM) 
+
+-Random forest (combination of multiple decision trees)
+
 -Algorithms comparison
- -Receiver Operating Curve (ROC) 
- -Precision-recall curves (PRC)
- -Imbalanced data
- -Imbalanced population demonstration with PRC
- -Prediction score in binary classification 
- -Evaluation results of the different binary classifiers
+
+-Receiver Operating Curve (ROC) 
+
+-Precision-recall curves (PRC)
+
+-Imbalanced data
+
+-Imbalanced population demonstration with PRC
+
+-Prediction score in binary classification 
+
+-Evaluation results of the different binary classifiers
+
+
 
