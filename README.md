@@ -13,5 +13,31 @@ having different specification and complexity of each algorithm.
 The objective of this case study is to improve the maintenance operations by comparing the
 different binary classifiers according to their scores within a time window and find the most
 accurate and precise model. The project applies data science techniques and machine
-learning algorithms by using python libraries such as Scikit-Learn, Pandas, NumPy
-.
+learning algorithms by using python libraries such as Scikit-Learn, Pandas, NumPy.
+
+Data preparation
+-Data types
+-Data description 
+-Data preprocessing 
+-Wrangling data
+-Feature selection
+ -Feature smoothing (Noise reduction)
+ -Features types
+Exploratory data analysis (EDA)
+Modeling techniques for predictive maintenance 
+-Model selection
+ -Hyperparameters
+ -Hyperparameter tuning
+ -Cross validation 
+-Training machine algorithm in practice.
+ -Logistic Regression 
+ -Support vector machine (SVM) 
+ -Random forest (combination of multiple decision trees)
+-Algorithms comparison
+ -Receiver Operating Curve (ROC) 
+ -Precision-recall curves (PRC)
+ -Imbalanced data
+ -Imbalanced population demonstration with PRC
+ -Prediction score in binary classification 
+ -Evaluation results of the different binary classifiers
+
