@@ -12,5 +12,5 @@ having different specification and complexity of each algorithm.
 The objective of this case study is to improve the maintenance operations by comparing the
 different binary classifiers according to their scores within a time window and find the most
 accurate and precise model. The project applies data science techniques and machine
-learning algorithms by using python libraries such as Scikit-Learn, Pandas, NumPy1
+learning algorithms by using python libraries such as Scikit-Learn, Pandas, NumPy
 .
