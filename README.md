@@ -1,4 +1,4 @@
-# Binary-Classifiers-performance-metrics-comparison-
+# Binary-Classifiers-performance-metrics-comparison
 
 Predictive maintenance (PdM) is designed to assist companies to determine the time for repair
 or changing the manufacturing parts right before being out of order. The main approach of
