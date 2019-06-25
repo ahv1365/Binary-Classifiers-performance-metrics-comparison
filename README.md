@@ -51,6 +51,10 @@ Exploratory data analysis (EDA) applies mostly visual techniques analyzing the d
 
 •	optimal factors detection
  
+ 
+ # Algorithms comparison
+ 
+ Predictive maintenance objective is trying to predict the equipment failure in advanced then the system from this predictions schedules maintenance. Having a failure occurrence notice in advance can reduce maintenance frequency, decrease the time spent for repairing and the costs for maintenance. This case study explained the steps to draw a PdM model over feature engineering, label creation, training and evaluation via comparing different binary algorithms such as logistics regression, random forest and support vector machine with the typical performance metrics. These metrics are accuracy, precision, recall, f1 score and Receiver operating curves (ROC).  The best performance for binary models for predictive maintenance in this case study are random forest, logistic regression and last SVM with kernel respectively. For a larger amount of data logistics regression performs faster than SVM because logistics regression is simpler than SVM algorithm. The calculation of profit is not mentioned in this case study due to the expert related subject but in a brief will it will be calculated with a cost benefit matrix according to the true positives, true negative, false positive and false negative. By having a true positive (true negative) prediction the company will benefit of not having downtime costs and on the other side every false positive (false negative) will have cost.
 
 
 
