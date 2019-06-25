@@ -12,13 +12,13 @@ having different specification and complexity of each algorithm.
 
 
 
-Data preparation
+**Data preparation**
  
 -Wrangling data
 
-Exploratory data analysis (EDA)
+**Exploratory data analysis (EDA)**
 
-Algorithms comparison
+**Algorithms comparison**
 
 
 # Data prepration:
