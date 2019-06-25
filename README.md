@@ -30,8 +30,11 @@ Data wrangling:
 The following table is a head of the collected raw data for 100 engines of planes which needs cleaning to be ready to use in the modeling processes (Garca, Luengo, & Herrera, 2014). As the table shows the training data with:
 
 •	28 columns (with 20631 rows from the shape)
+
 •	Missing data (there is no missing data in the data set)
+
 •	No name columns
+
 •	Extra space columns
 
 Exploratory data analysis (EDA):
@@ -39,9 +42,13 @@ Exploratory data analysis (EDA):
 Exploratory data analysis (EDA) applies mostly visual techniques analyzing the data to determine how the data should carry out. (Nisbet, Miner, & Yale, 2017) The purpose of EDA approaches is to:
 
 •	dataset insight maximization
+
 •	explore the underlying structures
+
 •	important variables extraction
+
 •	outliers and anomalies detection
+
 •	optimal factors detection
  
 
