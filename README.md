@@ -13,54 +13,37 @@ having different specification and complexity of each algorithm.
 
 
 Data preparation
-
--Data types
-
--Data description 
-
--Data preprocessing 
-
+ 
 -Wrangling data
-
--Feature selection
-
--Feature smoothing (Noise reduction)
-
--Features types
 
 Exploratory data analysis (EDA)
 
-Modeling techniques for predictive maintenance 
+Algorithms comparison
 
--Model selection
 
--Hyperparameters
+Data prepration:
 
--Hyperparameter tuning
+Transforming the raw data to an exposable and more accessible set of data through analyzing for improving the quality is called data preparation. For data preparation knowing the data types is important. 
 
--Cross validation 
+Data wrangling:
 
--Training machine algorithm in practice.
+The following table is a head of the collected raw data for 100 engines of planes which needs cleaning to be ready to use in the modeling processes (Garca, Luengo, & Herrera, 2014). As the table shows the training data with:
 
--Logistic Regression 
+•	28 columns (with 20631 rows from the shape)
+•	Missing data (there is no missing data in the data set)
+•	No name columns
+•	Extra space columns
 
--Support vector machine (SVM) 
+Exploratory data analysis (EDA):
 
--Random forest (combination of multiple decision trees)
+Exploratory data analysis (EDA) applies mostly visual techniques analyzing the data to determine how the data should carry out. (Nisbet, Miner, & Yale, 2017) The purpose of EDA approaches is to:
 
--Algorithms comparison
-
--Receiver Operating Curve (ROC) 
-
--Precision-recall curves (PRC)
-
--Imbalanced data
-
--Imbalanced population demonstration with PRC
-
--Prediction score in binary classification 
-
--Evaluation results of the different binary classifiers
+•	dataset insight maximization
+•	explore the underlying structures
+•	important variables extraction
+•	outliers and anomalies detection
+•	optimal factors detection
+ 
 
 
 
