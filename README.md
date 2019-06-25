@@ -21,11 +21,11 @@ Exploratory data analysis (EDA)
 Algorithms comparison
 
 
-Data prepration:
+# Data prepration:
 
 Transforming the raw data to an exposable and more accessible set of data through analyzing for improving the quality is called data preparation. For data preparation knowing the data types is important. 
 
-Data wrangling:
+# Data wrangling:
 
 The following table is a head of the collected raw data for 100 engines of planes which needs cleaning to be ready to use in the modeling processes (Garca, Luengo, & Herrera, 2014). As the table shows the training data with:
 
@@ -37,7 +37,7 @@ The following table is a head of the collected raw data for 100 engines of plane
 
 •	Extra space columns
 
-Exploratory data analysis (EDA):
+# Exploratory data analysis (EDA):
 
 Exploratory data analysis (EDA) applies mostly visual techniques analyzing the data to determine how the data should carry out. (Nisbet, Miner, & Yale, 2017) The purpose of EDA approaches is to:
 
